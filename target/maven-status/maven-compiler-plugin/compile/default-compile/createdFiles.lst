@@ -1,0 +1,6 @@
+com\lz\utils\ExcelUtil.class
+com\lz\dbutil\Dbconn.class
+com\lz\utils\RandomNameUtil.class
+com\lz\entity\User.class
+com\lz\utils\MyTestUtil.class
+com\lz\model\Model.class
